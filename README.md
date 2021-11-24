@@ -1,6 +1,6 @@
 Crypto news, details, list, exchanges.
 
-Used:
+USED:
 Ant-design
 Redux
 Axios
